@@ -1,3 +1,5 @@
+forked by NTS.
+
 # Vietnamese Accent Prediction
 ## A very simple/fast/accurate accent prediction for non-accented Vietnamese text using n-gram language model with Markov Chain
 
